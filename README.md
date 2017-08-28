@@ -2,9 +2,9 @@ Humankind is at a technological crossroads and soon we may be faced with some di
 
 This game has no end, and a tireless computer opponent. It is meant to illustrate how relentless and apathetic software systems can be, and hopefully to remind the player to question automation in the workplace, before the essence of humankind is lost.
 
-![Lost Intro Screen](http://github.com/srmcgann/js13k_lost/lost_intro.jpg)
+![Lost Intro Screen](https://github.com/srmcgann/js13k_lost/raw/master/lost_intro.jpg)
 
-![Lost Main Screen](http://github.com/srmcgann/js13k_lost/lost_main.jpg)
+![Lost Main Screen](https://github.com/srmcgann/js13k_lost/raw/master/lost_main.jpg)
 
 The way to score points is to get the ball to hit the edge of your paddle, sending it off at a sharp angle.
 
